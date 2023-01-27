@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProyectoBorro
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# ArgProg-Portfolio-Front
+Reupload del front del portfolio de Argentina Programa entregado originalmente en Octubre 2022 con el fin de cambiar de servicio ya que se han vencido las cuentas gratuitas.
+>>>>>>> 7967cf49e7a9ff4cd5babd2546488071311aff90
